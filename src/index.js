@@ -1,8 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-
-
 import { BrowserRouter, Route} from 'react-router-dom';
 
 import Home from './Component/home';
